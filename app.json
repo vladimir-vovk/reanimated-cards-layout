@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reanimated-on-layout",
+    "slug": "reanimated-on-layout",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo-bare-typescript"
+}
