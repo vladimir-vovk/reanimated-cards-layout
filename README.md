@@ -5,7 +5,7 @@ React Native Reanimated 2 Cards Layout Animation Example 🗂
 <h1 align="center">Reanimated Cards Layout</h1>
 <br>
 
-Please read [React Native Reanimated 2 Layout Animations Example](https://dev.to/vladimirvovk/react-native-reanimated-2-layout-animations-example-3i0h) article for details.
+Please read the [React Native Reanimated 2 Layout Animation Example](https://dev.to/vladimirvovk/react-native-reanimated-2-layout-animations-example-3i0h) article for details.
 
 <img src="./screen.gif" width="240"></img>
 
